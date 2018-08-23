@@ -2,7 +2,7 @@ language: bash
 python:
   - "2.7"
 install:
-  - pip install yq
+  - pip install --user yq
 
 script:
   - bash check_plugins_location.sh
