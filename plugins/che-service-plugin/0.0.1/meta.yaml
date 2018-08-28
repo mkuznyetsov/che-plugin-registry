@@ -1,5 +1,5 @@
 id: che-service-plugin
-version: 0.0.1
+version: 1.0.1
 type: Che Plugin
 name: Che Service
 title: Che Service Plugin
